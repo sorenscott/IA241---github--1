@@ -26,3 +26,4 @@ print("hello, world. This is my first python string.".split("."))
 #3.9
 message = "Tom's id is 123"
 print(message)
+demo_list= ['12', 12, 13]
