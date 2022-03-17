@@ -2,7 +2,16 @@
 notes
 '''
 
-month = ['march', 'april', 'may']
-my_first = month.pop(0)
-print(f'my first time was in {my_first}')
+trips = ['tokyo','jordan','paris']
+print(sorted(trips))
+print(trips)
+trips.sort (reverse=True)
+print(trips)
+print(len(trips))
+
+
+
+
+
+
 
